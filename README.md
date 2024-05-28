@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CompleteSecurity](https://github.com/KnOMM/CompleteSecurity)
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Framework**, **WebSockets** and **Algorithms & Data Structures**
 
 - 💬 Ask me about **Java**
 
