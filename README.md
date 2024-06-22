@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nazar-zhuhan-218818268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazar-zhuhan-218818268" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/knomm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/knomm/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KnOMM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/knomm/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24606771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24606771" height="30" width="40" /></a>
 </p>
 
