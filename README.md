@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knomm" alt="knomm" /></a> </p>
 
-- 🔭 I’m currently working on [CompleteSecurity](https://github.com/KnOMM/CompleteSecurity)
+- 🔭 I’m currently working on KnOMM/SpeedTyping
 
 - 🌱 I’m currently learning **Spring Framework**, **WebSockets** and **Algorithms & Data Structures**
 
